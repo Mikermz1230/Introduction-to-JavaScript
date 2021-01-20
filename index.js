@@ -34,9 +34,9 @@ Do the following:
    HINT: no function required
 */
 
-var variableOne = 10
-var variableTwo = 20
-var answer = variableOne + variableTwo
+var variableOne = 10;
+var variableTwo = 20;
+var answer = variableOne + variableTwo;
 {console.log(answer);}
 
 
@@ -53,8 +53,8 @@ Do the following:
    HINT: look up the Number method
 */
 
-
-
+var x = "1999";
+ x.toString();
 
 /*
 Task 1d - Multiply
@@ -64,9 +64,10 @@ Do the following:
    2. Receive the numbers in the parameters: a and b
    3. Multiply a and b and return the answer
 */
-
-function multiply(/*add your code here*/){
-    /*add your code here*/
+var A = 50
+var B = 50
+function multiply(A,B){
+    return A*B;
   }
 
 
@@ -141,7 +142,7 @@ Use the game function below to do the following:
   HINT: Remember that the order in which we pass in our arguments matters when it comes to parameters
 */
 
-function game(user, computer){
+function game(_user, _computer){
     /*add your code here*/
 }
   
