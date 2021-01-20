@@ -20,7 +20,7 @@ Do the following:
 let votingAge = 18
 if (votingAge < 18);{ console.log(true);}
 if (votingAge > 17);{ console.log(false);}
-3
+
 
 
 /*
@@ -34,6 +34,10 @@ Do the following:
    HINT: no function required
 */
 
+var variableOne = 10
+var variableTwo = 20
+var answer = variableOne + variableTwo
+{console.log(answer);}
 
 
 
