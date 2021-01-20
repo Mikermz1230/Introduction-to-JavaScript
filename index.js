@@ -20,6 +20,7 @@ Do the following:
 let votingAge = 18
 if (votingAge < 18);{ console.log(true);}
 if (votingAge > 17);{ console.log(false);}
+3
 
 
 /*
